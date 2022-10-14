@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  *   main - prints the phrase with proper grammar,
  *   but the outcome is a piece of art,
