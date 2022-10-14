@@ -1,8 +1,8 @@
-#include <studio.h>
-/**
+#include<studio.h>
+/** 
+ * main-Serves as the entry point for the program *
  
- * main - prints the phrase "Programming is like building a multilingual puzzle"
- * Return: 0 if exited properly, non-zero otherwise
+ * Return: By default returns zero if no erros otherwise returns non-zero value.
  */
 int main(void)
 { 
