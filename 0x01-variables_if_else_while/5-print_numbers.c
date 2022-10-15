@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- * main - Starting point 
+ * main - Starting point
  *
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	int a;
@@ -11,5 +12,5 @@ int main(void)
 	for (a = 0; a < 10; a++)
 		printf("%d", a);
 	putchar('\n');
-	return (0);
+return (0);
 }
