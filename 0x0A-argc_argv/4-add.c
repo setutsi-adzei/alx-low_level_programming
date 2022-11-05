@@ -23,9 +23,9 @@ int main(int argc, char *argv[])
 	}
 	for (k = 1; k < argc; k++)
 	{
-	num = atoi(argv[k];
+		num = atoi(argv[k]);
 		result += num;
-		}
+	}
 	printf("%d\n", result);
-return (0);
+	return (0);
 }
